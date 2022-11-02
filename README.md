@@ -1,9 +1,11 @@
-### Hi there I'm Matteo 👋
+<div align="center">
+
+## Hi there I'm Matteo 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=cuccomat.cuccomat)
 
 I'm a Machine Learning engineer specialised in Computer Vision, Reinforcement Learning, and Natural Language Processing. I recently graduated with a Master's in AI from Imperial College London. Furthermore, I'm passionate about self-driving cars and aerospace. I'm proficient in Python, C++, and ML libraries (Pytorch, Tensorflow).
 
-### You can reach me at:
+## You can reach me at:
 
 <div align="center">
 <a href="https://www.linkedin.com/in/matteo-cuccorese-7a92a91a6/">
